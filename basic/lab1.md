@@ -30,16 +30,14 @@ public class Main{
 
 ###Penjelasan
 * Blok kode di atas kita sebut kelas Main, yaitu berdasarkan statement pada baris pertama `public class Main`. Jika Anda diminta membuat kelas `Student` maka baris pertamanya `public class Student`.
-
-`public class Hitung` --- kelas Hitung
-`public class Hewan` ---- kelas Hewan
+	*`public class Hitung` --- kelas Hitung
+	*`public class Hewan` ---- kelas Hewan
 
 * Nama kelas 'harus' dimulai huruf besar
-
-benar `public class Employee`
-benar `public class EmployeeBean`
-salah `public class employee`
-salah `public class employeebean`
-salah `public class Employeebean`
+	*benar `public class Employee`
+	*benar `public class EmployeeBean`
+	*salah `public class employee`
+	*salah `public class employeebean`
+	*salah `public class Employeebean`
 
 * Nama file harus sama dengan nama kelas
