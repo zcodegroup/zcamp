@@ -52,7 +52,7 @@ Pada blok kode ini Anda mendeklarasikan sebuah objek `scanner`. Objek scanner in
 	wito
 	Selamat belajar, wito
 	```
-2. Ahmad sedang belajar membuat program untuk mencatat penjualan di warung umi nya. Sebagai awalan dia ingin programnya menerima inputan nama barang (B) dan jumlah barang (N). Program akan menampilkan tulisan: "Penjualan [B] sebanyak [N]"
+2. Zinedine sedang belajar membuat program untuk mencatat penjualan di warung umi nya. Sebagai awalan dia ingin programnya menerima inputan nama barang **B** dan jumlah barang **N**. Program akan menampilkan tulisan: "Penjualan **B** sebanyak **N**"
 
 	Contoh
 	```
@@ -60,7 +60,6 @@ Pada blok kode ini Anda mendeklarasikan sebuah objek `scanner`. Objek scanner in
 	5
 	Penjualan Buku sebanyak 5
 	```
-
 	```
 	Pensil
 	3

@@ -16,7 +16,8 @@
 public class Lab2{
 	public static void main(String[] args){
 		String s = "Hello world!";
-		int i = 2015;
+		int i;
+		i = 2015;
 		System.out.println(s + i);
 	}
 }
@@ -31,5 +32,6 @@ public class Lab2{
 * Tipe data string ditulis dengan `String`
 * Tipe data integer (bilangan bulat) ditulis dengan `int`
 * nama variable dimulai dengan huruf kecil
-
+* `String s = "Hello world!";` Buat variable sekaligus ngasih nilai. `s` adalah variable. `"Hello world!"` adalah nilai
+* `int i;` `i = 2015;` Buat variable dulu kemudian ngasih nilai. `i` adalah variable. `2015` adalah nilai
 Contoh: s, i, add, saveStudent, deleteEmployee
