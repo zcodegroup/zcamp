@@ -79,57 +79,51 @@ modulo 2 % 5: 2
 
 	Contoh
 
-		```
-		7
-		8
-		15
-		-1
-		```
-		```
-		120
-		100
-		220
-		20
-		```
+	```
+	7
+	8
+	15
+	-1
+	```
+	```
+	120
+	100
+	220
+	20
+	```
 * Zinedine mengembangkan program sebelumnya yang dia buat. Kali ini dia ingin programnya dapat melakukan perhitungan. Pertama user akan diminta memasukan nama barang. Kedua user akan diminata memasukan harga satuan barang. Ketiga user akan diminta memasukan jumlah barang yang dijual. Kemudian program akan menampilkan text: 'Total yang harus dibayar ...'.
 	
 	Tampilan
 
-		```
 		Nama Barang: <s>
 		Harga Barang: <p>
 		Jumlah Barang: <n>
 		Total yang harus dibayar dari penjualan <s> : <p * n>
-		```
 
 	Contoh
 
-		```
-		Nama Barang: Buku
-		Harga Barang: 2000
-		Jumlah Barang: 5
-		Total yang harus dibayar dari penjualan Buku: 10000
-		```
-		```
-		Nama Barang: Pensil
-		Harga Barang: 1000
-		Jumlah Barang: 8
-		Total yang harus dibayar dari penjualan Pensil: 8000
-		```
+	```
+	Nama Barang: Buku
+	Harga Barang: 2000
+	Jumlah Barang: 5
+	Total yang harus dibayar dari penjualan Buku: 10000
+	```
+	```
+	Nama Barang: Pensil
+	Harga Barang: 1000
+	Jumlah Barang: 8
+	Total yang harus dibayar dari penjualan Pensil: 8000
+	```
 * Zara diberikan sejumlah kue oleh umi. Dia diminta untuk membagian kue tersebut ke beberapa tetangga di sekitar rumah. Bantu Zara untuk menentukan berapa kue yang harus diberi ke setiap tetangga, dengan catatan setiap tetangga harus menerima jumlah kue yang sama.
 
 	Tampilan
 
-		```
 		Jumlah Kue: <x>
 		Jumlah Tetangga: <y>
 		Jumlah kue yang akan diberikan ke setiap tetangga adalah: <x / y>
-		```
 
 	Contoh
 
-		```
 		Jumlah Kue: 20
 		Jumlah Tetangga: 5
 		Jumlah kue yang akan diberikan ke setiap tetangga adalah: 4
-		```
