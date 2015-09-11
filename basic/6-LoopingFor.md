@@ -65,7 +65,8 @@ Bingo! ke-1
 Bingo! ke-99
 ```
 
-Kenapa mulainya dari 0 bukan dari 1? Karena kita memberikan nilai awal untu i adalah 0 (`int i=0`). 
+Kenapa mulainya dari 0 bukan dari 1? Karena kita memberikan nilai awal untuk i adalah 0 (`int i=0`). 
+
 Kenapa akhirnya 99 bukan 100? Karena pada saat i bernilai 100, kondisi `i < 100` tidak terpenuhi, sehingga program g sempet untuk menampilkan `Bingo! ke-100`.
 
 
