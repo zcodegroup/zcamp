@@ -5,4 +5,4 @@ Daftar isi:
 * [Input dari User](3-UserInput.md)
 * [Operasi Aritmatika](4-Aritmatika.md)
 * [Kondisional If](5-Kondisional.md)
-* Looping For
+* [Looping For](6-LoopingFor.md)
